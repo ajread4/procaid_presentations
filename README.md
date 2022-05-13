@@ -2,7 +2,7 @@
 
 This repository holds the final presentations for my thesis work, ProcAID: Process Anomaly-based Intrusion Detection. 
 
-The full thesis can be found here: ```https://www.proquest.com/openview/e4ce5ff777fc5943a8b4624677b3cad1/1?pq-origsite=gscholar&cbl=18750&diss=y``` 
+The full thesis can be found here: [ProcAID](https://www.proquest.com/openview/e4ce5ff777fc5943a8b4624677b3cad1/1?pq-origsite=gscholar&cbl=18750&diss=y)
 
 # Contents
 
