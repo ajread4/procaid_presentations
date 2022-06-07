@@ -13,3 +13,6 @@ The full thesis can be found here: [ProcAID](https://www.proquest.com/openview/e
 # Author
 
 All of the presentations are created by AJ Read. Some of the slides are taken from the GraphLab at GWU. 
+- Twitter: [ajread3](https://twitter.com/ajread3)
+- Github: [ajread4](https://github.com/ajread4)
+- LinkedIn: [Austin Read](https://www.linkedin.com/in/austin-read-88953b189/)
